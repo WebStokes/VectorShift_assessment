@@ -1,0 +1,170 @@
+[
+  {
+    "execution_id": "a58fe8ed-0814-42a3-9102-7f6abf4ec8bc",
+    "status": "success",
+    "node_count": 5,
+    "edge_count": 3,
+    "duration_ms": 28129.04
+  },
+  {
+    "execution_id": "1b291545-c4da-4d90-8306-4750a2df5826",
+    "status": "failed",
+    "node_count": 5,
+    "edge_count": 3,
+    "duration_ms": 36309.37
+  },
+  {
+    "execution_id": "2b7b3f68-1b41-49b3-a996-758d259170a1",
+    "status": "success",
+    "node_count": 4,
+    "edge_count": 3,
+    "duration_ms": 3574.32
+  },
+  {
+    "execution_id": "c7020a3d-f2b6-4b3b-9d40-859eb0b7b4ea",
+    "status": "failed",
+    "node_count": 4,
+    "edge_count": 3,
+    "duration_ms": 17369.77
+  },
+  {
+    "execution_id": "bd7c45a0-c449-45c5-8a93-59f52f55c418",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.85
+  },
+  {
+    "execution_id": "bf4ac79c-8344-4729-b622-99137b4c041b",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 1,
+    "duration_ms": 0.07
+  },
+  {
+    "execution_id": "3826947c-6c24-48aa-ba8c-7d5f0aa60495",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 0,
+    "duration_ms": 1.03
+  },
+  {
+    "execution_id": "84d9fbbb-eb6e-4611-b7c4-f1a67dd60507",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.05
+  },
+  {
+    "execution_id": "84626af5-b5c2-4236-83b8-d5dd6d2d23b8",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.73
+  },
+  {
+    "execution_id": "081dce20-1598-4c31-b54a-e1ef1d50b2c8",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 1855.65
+  },
+  {
+    "execution_id": "46e4ecab-ec1f-46f6-8e9d-0c48e893bbd1",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 597.02
+  },
+  {
+    "execution_id": "f9fa16f7-7618-46b9-8fc6-45208575290a",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 1152.99
+  },
+  {
+    "execution_id": "5fe5f5c1-94bc-40e0-bb79-8353fecb101e",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 29100.32
+  },
+  {
+    "execution_id": "14c0d990-a095-42da-9439-6736651ad7cb",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 5135.07
+  },
+  {
+    "execution_id": "f864170e-12d4-4cb6-bc3e-7df4a8d52a72",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 2860.36
+  },
+  {
+    "execution_id": "5c3b0649-e52d-4f86-bfb3-8bec0f73fd43",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 2618.61
+  },
+  {
+    "execution_id": "97c51b1c-67bc-4c6c-b8fb-ab32e1ba01b8",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 21812.75
+  },
+  {
+    "execution_id": "f1cab98e-f597-46a3-bc47-2fa3cf3d4029",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.04
+  },
+  {
+    "execution_id": "34e99dd3-9dfa-4620-b0bd-ae3c6556c417",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.07
+  },
+  {
+    "execution_id": "864fe530-954f-40b9-a83d-6d0c5560b5ab",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 0.09
+  },
+  {
+    "execution_id": "f1ad8bbf-63f1-4bfa-8945-556090bc41c2",
+    "status": "success",
+    "node_count": 3,
+    "edge_count": 2,
+    "duration_ms": 1.49
+  },
+  {
+    "execution_id": "239104b8-fd03-45d8-80c2-2c3d825f44e9",
+    "status": "success",
+    "node_count": 2,
+    "edge_count": 1,
+    "duration_ms": 0.07
+  },
+  {
+    "execution_id": "0ba37230-537c-470b-8aa2-ecbbe929fd75",
+    "status": "success",
+    "node_count": 2,
+    "edge_count": 1,
+    "duration_ms": 0.38
+  },
+  {
+    "execution_id": "863c3efc-c061-4a60-8bc9-405dec339716",
+    "status": "success",
+    "node_count": 2,
+    "edge_count": 1,
+    "duration_ms": 0.9
+  }
+]
